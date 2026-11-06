@@ -1,0 +1,22 @@
+[
+ {"id": "s00", "title": "SSAI", "tag": "", "text": "Şirketinizin iş yapma süreçlerini değiştiriyoruz.",
+  "say": "es es ey ay. Şirketinizin iş yapma süreçlerini değiştiriyoruz."},
+ {"id": "s01", "title": "Safine Twin", "tag": "Üretim Dijital İkizi", "text": "Hammaddeden sevkiyata tüm üretim, dijitalde. Durdurmadan, risksiz deneyin.",
+  "say": "Ben Safine Tvin. Hammaddeden sevkiyata, tüm üretiminizi dijitalde kopyalıyorum. Üretimi durdurmadan, risksiz deneyin."},
+ {"id": "s02", "title": "Risk Kalkanı", "tag": "Piyasa İzleme & Finansman", "text": "TCMB, borsa ve dünya piyasaları tek ekranda. Finansman maliyetiniz planlı.",
+  "say": "Ben Risk Kalkanı. Merkez bankasını, borsayı ve dünya piyasalarını izliyor, finansman maliyetinizi planlıyorum."},
+ {"id": "s03", "title": "Banka Limit Yönetimi", "tag": "Tüm bankalar, tek ekran", "text": "Nakdi ve gayri nakdi limitler, teminat mektupları, çekler, kartlar.",
+  "say": "Tüm bankalar, tek ekran. Limitler, teminat mektupları, çekler ve kartlar, benim kontrolümde."},
+ {"id": "s04", "title": "Aktif-Pasif Yönetimi", "tag": "Hazine & Nakit", "text": "Bilanço vade, döviz ve faize göre eşleşir. Stres testleri hazır.",
+  "say": "Aktif pasif yönetimi. Bilançonuzu vade, döviz ve faize göre eşleştiriyor, stres testlerini yapıyorum."},
+ {"id": "s05", "title": "Teşvik Yönetimi", "tag": "Yatırım & Devlet Destekleri", "text": "Sektörünüze ve ilinize uygun destekler otomatik eşleşir.",
+  "say": "Teşvik yönetimi. Sektörünüze ve ilinize uygun devlet desteklerini, otomatik olarak buluyorum."},
+ {"id": "s06", "title": "Sanal İdari İşler", "tag": "AI İdari İşler Sorumlusu", "text": "Kira, sigorta, muayene tarihleri. Fatura anomalileri anında.",
+  "say": "Sanal idari işler sorumlusu. Kira, sigorta ve muayene tarihlerini unutmam. Faturadaki anormalliği, hemen yakalarım."},
+ {"id": "s07", "title": "SSAI Karşılaştırma", "tag": "Sektör Kıyaslama", "text": "Firmanız sektörde nerede? Rakiplerle fark ve AI yorumu.",
+  "say": "es es ey ay karşılaştırma. Firmanızı sektördeki rakiplerinizle kıyaslıyor, yerinizi gösteriyorum."},
+ {"id": "s08", "title": "Mizan Analiz", "tag": "Excel'den Finansal Analiz", "text": "Mizanı yükleyin, kapsamlı finansal analiz saniyeler içinde.",
+  "say": "Mizan analiz. Excel mizanınızı yükleyin, kapsamlı finansal analizi saniyeler içinde hazırlarım."},
+ {"id": "s09", "title": "SSAI", "tag": "www.safineai.com", "text": "Şirketinizin iş yapma süreçlerini değiştiriyoruz.",
+  "say": "es es ey ay. Şirketinizin iş yapma süreçlerini değiştiriyoruz. safine ey ay nokta kom."}
+]
